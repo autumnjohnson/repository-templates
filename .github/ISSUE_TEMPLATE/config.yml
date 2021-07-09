@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: IRIS DMC Message Center - Data Issues
+    url: https://ds.iris.edu/message-center/topic/data-issues/
+    about: Please report any issues here.
